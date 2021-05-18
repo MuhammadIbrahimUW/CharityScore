@@ -1,4 +1,4 @@
-# CharityScore aims to provide a measure of efficency on charity expenditure of Canadian charities
+# CharityScore aims to provide a measure of efficency on expenditures of Canadian charities
 
 ### This program is divided into three parts: Data Collection, Statistical Calculation, and Scoring Algorithm.
 
